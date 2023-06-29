@@ -1,6 +1,10 @@
-#include "MyCode.h"
+//#include "MyCode.h" = My own archive containing libraries and other things
 
-int opc = 0, num1, num2;
+#include <iostream>
+
+using namespace std;
+
+int opc, num1, num2;
 
 void menu() {
 	system("cls");
