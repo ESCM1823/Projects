@@ -1,4 +1,4 @@
-//#include "MyCode.h" = My own archive containing libraries and other things
+//#include "MyCode.h" = My own file containing libraries and other things
 
 #include <iostream>
 
