@@ -1,9 +1,9 @@
-//ONLY the
 package com.Calculator;
 import java.util.Scanner;
 public class Operation {
     //local variables
-    int add, sub, mul, div, num1, num2;
+    int add, sub, mul, num1, num2;
+    double div;
 
     //method read the numbers
     public void readData(){
@@ -31,7 +31,7 @@ public class Operation {
 
     //method division
     public void Division(){
-        div = num1 / num2;
+        div = (double) num1 / num2;
     }
 
 }
