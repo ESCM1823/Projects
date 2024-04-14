@@ -1,12 +1,20 @@
+<h1 align="center">Projects</h1>
 
-## Projects 👨🏽‍💻
+###
 
-All Projects created since 2024
+<h3 align="left">All Projects created since 2024</h3>
 
-<a href = "https://github.com/ESCM1823/Projects/tree/master/JAVA" ><img src = "https://github.com/ESCM1823/Projects/assets/95002886/ae7ad258-7a68-4aed-aaba-86950e044f3c" width="110" height="110"></a>
-<a href = "https://github.com/ESCM1823/Projects/tree/master/KOTLIN" ><img src = "https://github.com/ESCM1823/Projects/assets/95002886/c6ea1bc1-96f3-4795-bcf2-171547dc80b5" width="90" height="90"></a>
+###
 
-## Authors
-- [©Edwin Stevens Cambranes Mendizábal](https://github.com/ESCM1823)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="100" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="100" alt="kotlin logo"  />
+</div>
 
-# <a href = "https://github.com/ESCM1823/MySelf"> 💫 About Me </a>
+###
+
+<h2 align="center">Author</h2>
+
+###
+<h3 align="center"><a href = "https://github.com/ESCM1823/MySelf"> ©Edwin Stevens Cambranes Mendizábal </a></h3>
